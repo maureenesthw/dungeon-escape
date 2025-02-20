@@ -1,4 +1,7 @@
 # **Dungeon Escape (Text Adventure) 🏰**
+<div align="center">
+  <img src="statics/dungeon-escape.gif">
+</div>
 
 ## **🛠️ How to Run**
 1. Clone this repository
